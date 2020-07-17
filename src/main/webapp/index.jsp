@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Curso de Jenkins Tsoft 2020</title>
+<title>Gabo</title>
 </head>
 <body>
 <h1>Hola Mundo Tsoft 2020_</h1>
